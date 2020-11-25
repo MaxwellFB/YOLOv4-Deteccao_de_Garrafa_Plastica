@@ -1,18 +1,11 @@
-# YOLOv4-Cloud-Tutorial
-[![Train Custom Model In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing)
+# YOLOv4 - Detecção de Garrafa Plástica
+[![YOLOv4 - Detecção de Garrafa Plástica - Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zLJuAJa0dg3-KQKtLzASzAV-VkPYN_bx?usp=sharing)
 
-This repository walks you through how to Build, Train and Run YOLOv4 Object Detections with Darknet in the Cloud through Google Colab.
+Esse repositório é um auxiliar para o Colab que foi desenvolvido para o projeto de detectar garrafas plásticas.
+Devido aos arquivos serem muito grandes, este repositório possui apenas os arquivos e pastas padrões necessários para executar o código. Caso deseje utilizar para um novo projeto, basta substituir e configurar conforme detalhado no Colab.
 
-![Example Of YOLOv4 Detections](images/detection1.jpg)
+Caso deseje saber mais sobre o projeto, pode acessar um dos seguintes links:
+Colab: https://colab.research.google.com/drive/1zLJuAJa0dg3-KQKtLzASzAV-VkPYN_bx?usp=sharing
+Vídeo do projeto: https://youtu.be/PtXPh4BEAAI
 
-To follow along with the exact tutorial upload this entire repository to your Google Drive home folder. Then follow along with the notebook by opening it within Google Colab.
-
-Watch a step-by-step walkthrough tutorial of the code for pre-trained YOLOv4: https://www.youtube.com/watch?v=mKAEGSxwOAY
-
-Watch a step-by-step walkthrough tutorial of the code for training your own Custom Object Detector: https://www.youtube.com/watch?v=mmj3nxGT2YQ
-
-Here is the Colab Notebook for showing pre-trained YOLOv4 Object Detector on over 80 classes and how to customize outputs etc.: https://colab.research.google.com/drive/12QusaaRj_lUwCGDvQNfICpa7kA7_a2dE?usp=sharing
-
-Here is the Colab Notebook for showing how to TRAIN CUSTOM YOLOv4 OBJECT DETECTOR: https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing
-
-Cheers!
+![Deteccao Garrafa Plastica](img/eb6a929172af5a8e.jpg)
